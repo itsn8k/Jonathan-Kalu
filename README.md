@@ -52,7 +52,7 @@ The Developer and Beyond
 Looking forward, I aim to expand my skills with tools like React Native, to bridge my web development knowledge into mobile applications, opening doors for me to create multi-platform solutions. In addition, I see the value in project management and intend to deepen my expertise in IT project management, merging my tech knowledge with strategic oversight.
 
 Vision for the Future
-My ultimate goal is to create applications that make a difference—whether it’s a platform that connects people globally, a tool that simplifies tech for non-developers, or a comprehensive resource for tech updates through. My journey is about blending code with creativity, delivering functionality with an aesthetic that draws people in, and building solutions that users rely on.
+My ultimate goal is to create web applications that make a difference—whether it’s a platform that connects people globally, a tool that simplifies tech for non-developers, or a comprehensive resource for tech updates through. My journey is about blending code with creativity, delivering functionality with an aesthetic that draws people in, and building solutions that users rely on.
 
 [website]: https://nate-portifolio.vercel.app/
 [x.com]: https://x.com/natedev2024
