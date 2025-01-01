@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Jonathan Kalu][website]
+# Hi 👋, I'm [Jonathan Kalu]
 
 **`Software Developer (Full Stack Developer/MERN Stack Developer/Freelance Web Developer)`**
 
