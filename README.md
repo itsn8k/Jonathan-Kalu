@@ -1,6 +1,6 @@
 # Hi 👋, I'm [Jonathan Kalu]
 
-**`(Full Stack Developer/MERN Stack Developer/Freelance Web Developer)`**
+**`Full Stack Developer`**
 
 I am a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). With a strong foundation in web development, I create dynamic and responsive applications that enhance user experiences.
 
