@@ -35,6 +35,4 @@ I am dedicated to continuous improvement and excited to tackle new challenges in
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Kalu&show_icons=true&theme=gruvbox)
 
 #
-
-<details>
  
